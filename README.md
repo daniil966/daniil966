@@ -7,8 +7,3 @@ Student, beginner developer. Learning programming and creating my first projects
 - Java (Desktop applications) 
 - C++ (Algorithms and basics)
 - Web development (HTML, CSS, JavaScript)
-
-### 📚 Now I'm delving into:
-- Web frameworks
-- Databases
-- Algorithms and Data Structures
